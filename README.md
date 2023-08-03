@@ -13,6 +13,7 @@ Completed projects:
     1. Functions
     2. While loop
     3. Switch statement
+    4. C standard library stdio.h
      
 3. Swapping 2 numbers 
   This program can interchange the value of 2 variables in memory using a temp variable.
