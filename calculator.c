@@ -73,7 +73,7 @@ int main (){
     int answer = 1  ; 
     while (1){
         calculator();
-        printf("Play again?\n0 for No\n1 for Yes");
+        printf("Play again?\n0 for No\n1 for Yes\n");
         scanf("%d", &answer);
         if (answer == 1){
             calculator();
